@@ -1,1 +1,1 @@
-include ':app', ':ViewPager', ':LoopingViewPager', ':circleindicator', ':AutoViewPagerIndicator'
+include ':app', ':ViewPager', ':LoopingViewPager', ':circleindicator', ':AutoViewPagerIndicator', ':layoutexercise'

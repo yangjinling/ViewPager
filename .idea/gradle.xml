@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/ViewPager" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/circleindicator" />
+            <option value="$PROJECT_DIR$/layoutexercise" />
           </set>
         </option>
         <option name="myModules">
@@ -23,6 +24,7 @@
             <option value="$PROJECT_DIR$/ViewPager" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/circleindicator" />
+            <option value="$PROJECT_DIR$/layoutexercise" />
           </set>
         </option>
       </GradleProjectSettings>
