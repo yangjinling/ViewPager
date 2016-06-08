@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AutoViewPagerIndicator/AutoViewPagerIndicator.iml" filepath="$PROJECT_DIR$/AutoViewPagerIndicator/AutoViewPagerIndicator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoopingViewPager/LoopingViewPager.iml" filepath="$PROJECT_DIR$/LoopingViewPager/LoopingViewPager.iml" />
       <module fileurl="file://$PROJECT_DIR$/ViewPager/ViewPager.iml" filepath="$PROJECT_DIR$/ViewPager/ViewPager.iml" />
       <module fileurl="file://$PROJECT_DIR$/ViewPagerExercise.iml" filepath="$PROJECT_DIR$/ViewPagerExercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/circleindicator/circleindicator.iml" filepath="$PROJECT_DIR$/circleindicator/circleindicator.iml" />
     </modules>
   </component>
 </project>
